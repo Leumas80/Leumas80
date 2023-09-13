@@ -1,7 +1,6 @@
 
 <div align='center'>
 	<img src='https://as1.ftcdn.net/v2/jpg/04/37/39/18/1000_F_437391889_ebGNTbME7F6KPEgIPwh738Rvfm8WF0tj.jpg' /> 
-	<h1>Framework Linear Template</h1>
 </div>
 ### Hi there 👋
 
