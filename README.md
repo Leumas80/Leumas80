@@ -3,9 +3,10 @@
 # Hi there, I'm Samuel Betancourt 👋
 ### **Senior Automation Developer & QA Automation Specialist**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![UiPath Community](https://img.shields.io/badge/UiPath-Community-orange?style=flat&logo=uipath)](YOUR_UIPATH_PROFILE_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-Leumas80-black?style=flat&logo=github)](https://github.com/Leumas80)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/samuel-betancourt)
+[![UiPath Community](https://img.shields.io/badge/UiPath-Community-orange?style=flat&logo=uipath)](https://credentials.uipath.com/profile/leumas/wallet)
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-Profile-0078D4?style=flat&logo=microsoft)](https://learn.microsoft.com/en-us/users/leumas80/)
+[![Credly](https://img.shields.io/badge/Credly-Profile-FF6B00?style=flat)](https://www.credly.com/users/leumas80)
 
 </div>
 
@@ -80,8 +81,7 @@ The project demonstrates how Test Manager capabilities can be integrated into a 
 
 **UiPath Test Manager** · **REST APIs** · **Postman** · **JavaScript** · **HTML5** · **Docker** · **Git** · **GitHub**
 
-👉 **Repository:**  
-https://github.com/Leumas80/WEB.UiPath.TM_Executor
+👉 **Repository:**  https://github.com/Leumas80/WEB.UiPath.TM_Executor
 
 ---
 
