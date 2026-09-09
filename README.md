@@ -132,7 +132,10 @@ I am particularly interested in opportunities involving:
 <div align="center">
 
 ### 🚀 Automation • Integration • Testing
-
 **Building practical automation solutions that connect systems, processes, and people.**
+<div align="center">
+  <hr width="25%">
+</div>
+<img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fleumas80&icon=github&color=%23198754&message=&style=flat&tz=UTC">
 
 </div>
